@@ -1,0 +1,16 @@
+{
+  "name": "employee-api",
+  "version": "1.0.0",
+  "description": "REST API for employee simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas D. Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.18.2"
+  }
+}
